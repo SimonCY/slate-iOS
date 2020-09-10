@@ -72,6 +72,9 @@ slatefile中记录内容包括：
 slatefile用于在APP自动化模块集成、程序运行阶段提供项目级的配置项数据支持。
 ### 模块的集成
 - - -
+
+![slate项目目录示例截图](https://github.com/SimonCY/slate-iOS/blob/master/imgs/slate_project_shot.png?raw=true)
+
 模块通过cocoapod本地联调指定分支形式进行集成（无需再提供一个索引仓库，且对模块内代码修改可以直接进行git提交，无需发布pod版本）。
 
 由脚本读取slatefile中的信息，了解需要集成的模块，自动拼接对应的git仓库地址，进行clone，自动配置podfile，自动进行pod install集成。
