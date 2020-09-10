@@ -1,9 +1,9 @@
 
-<img src="https://github.com/SimonCY/slate-iOS/blob/master/imgs/slate_logo.png?raw=true" alt="图片替换文本" width="360" height="200" align="bottom" />
+<img src="https://github.com/SimonCY/slate-iOS/blob/master/imgs/slate_logo.png?raw=true" alt="图片替换文本" width="180" height="100" align="bottom" />
 
 ###### 导语：
 
-~本文主要是对slate组件化方案实现的记录（路由、模块划分及模块代码生命周期、模块集成管理方式），并非教学文章，如果你有好的意见或建议欢迎在评论区探讨。~
+- 本文主要是对slate组件化方案实现的记录（路由、模块划分及模块代码生命周期、模块集成管理方式），并非教学文章，如果你有好的意见或建议欢迎在评论区探讨。
 
 ### 前言
 - - -
