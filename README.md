@@ -1,4 +1,5 @@
-![](https://github.com/SimonCY/slate-iOS/blob/master/imgs/slate_logo.png?raw=true)
+
+<img src="https://github.com/SimonCY/slate-iOS/blob/master/imgs/slate_logo.png?raw=true" alt="图片替换文本" width="360" height="200" align="bottom" />
 
 ###### 导语：
 
